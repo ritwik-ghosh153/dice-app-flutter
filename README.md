@@ -1,2 +1,2 @@
 # dice-app-flutter
-It is a Flutter app that gives a pair of random die faces
+It is a Flutter app that lets you roll a pair of dice and get random die faces.
